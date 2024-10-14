@@ -1,0 +1,34 @@
+header 
+{text-align: center;
+background-color: black;}
+.img1{
+    text-align: center;
+}
+main img{
+    border: solid white;
+    border-radius: 15px;
+}
+body
+{
+    background-color: black;
+}
+main{
+    background-color: white;
+    text-align: center;
+    font-family: system-ui;
+    padding: 12px;
+    line-height: 1.6;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family: system-ui;
+    text-align: center;
+    line-height: 1.7;
+}
+footer img{
+    border: solid black;
+    border-radius: 15px;
+}
